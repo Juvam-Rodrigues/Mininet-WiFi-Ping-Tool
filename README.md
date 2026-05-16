@@ -55,7 +55,7 @@ Inicie normalmente sua topologia Mininet-WiFi.
 No terminal do Mininet-WiFi, execute:
 </p>
 
-<pre><code>py import('meuping').pingTodos(net)</code></pre>
+<pre><code>py __import__('meuping').pingTodos(net)</code></pre>
 
 <hr>
 
